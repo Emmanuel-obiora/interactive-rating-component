@@ -36,7 +36,6 @@ body{
     background: var(--Dark-Blue);
     border-radius: 50%;
     padding: .7rem;
-    /* border: 10px solid var(--Dark-Blue); */
 }
 
 .question > h1{

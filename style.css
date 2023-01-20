@@ -22,9 +22,12 @@ body{
     min-height: 100vh;
 }
 
+main{
+    margin: auto auto 0 auto;
+}
+
 .question, .thanks{
     display: grid;
-    margin:  auto auto 0 auto;
     width: 320px;
     height: auto;
     background: linear-gradient(to top right, var(--bg2), var(--Dark-Blue));
